@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f8bb80d-73ec-4915-83eb-edab29513dc6" name="Changes" comment="set portfolio" />
+    <list default="true" id="0f8bb80d-73ec-4915-83eb-edab29513dc6" name="Changes" comment="set portfolio">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,6 +75,7 @@
       <workItem from="1717486651914" duration="30000" />
       <workItem from="1717487141337" duration="704000" />
       <workItem from="1717487981272" duration="260000" />
+      <workItem from="1717488748142" duration="853000" />
     </task>
     <task id="LOCAL-00001" summary="set portfolio">
       <option name="closed" value="true" />
@@ -114,7 +117,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717488082820</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="set portfolio">
+      <option name="closed" value="true" />
+      <created>1717488771867</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717488771867</updated>
+    </task>
+    <task id="LOCAL-00007" summary="set portfolio">
+      <option name="closed" value="true" />
+      <created>1717489009604</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1717489009604</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
