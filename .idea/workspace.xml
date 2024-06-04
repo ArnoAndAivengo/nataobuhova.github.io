@@ -75,7 +75,7 @@
       <workItem from="1717486651914" duration="30000" />
       <workItem from="1717487141337" duration="704000" />
       <workItem from="1717487981272" duration="260000" />
-      <workItem from="1717488748142" duration="853000" />
+      <workItem from="1717488748142" duration="2178000" />
     </task>
     <task id="LOCAL-00001" summary="set portfolio">
       <option name="closed" value="true" />
@@ -133,7 +133,31 @@
       <option name="project" value="LOCAL" />
       <updated>1717489009604</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="set portfolio">
+      <option name="closed" value="true" />
+      <created>1717490354728</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1717490354728</updated>
+    </task>
+    <task id="LOCAL-00009" summary="set portfolio">
+      <option name="closed" value="true" />
+      <created>1717491299002</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1717491299002</updated>
+    </task>
+    <task id="LOCAL-00010" summary="set portfolio">
+      <option name="closed" value="true" />
+      <created>1717491668363</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1717491668363</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
